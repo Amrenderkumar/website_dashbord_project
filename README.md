@@ -17,4 +17,9 @@ This portfolio site is designed to help web developers:
 - Showcase completed projects
 - Highlight technical and networking skills
 - Provide easy contact options
+
+## 📷 Preview
+
+The image above shows a screenshot of the homepage layout, featuring a modern and responsive design.
+
 ![image alt](https://github.com/Amrenderkumar/website_dashbord_project/blob/6fac0697a2648a462c489d30108e7f644536d169/screenshort2.png)
