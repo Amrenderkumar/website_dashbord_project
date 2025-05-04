@@ -27,4 +27,10 @@ The image above shows a screenshot of the homepage layout, featuring a modern an
 - HTML5
 - CSS3
 - (Add JavaScript or frameworks used if any)
+
+  ## 📬 Contact
+
+Feel free to reach out via the contact section of the site or through linked social media platforms.
+
+---
 ![image alt](https://github.com/Amrenderkumar/website_dashbord_project/blob/6fac0697a2648a462c489d30108e7f644536d169/screenshort2.png)
