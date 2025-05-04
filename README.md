@@ -10,4 +10,10 @@ This is a personal portfolio website for a **Web Developer** showcasing projects
 - **Projects, Skills, and Network Sections** to highlight strengths and capabilities.
 - **About Me Section** with image and introduction.
 - **Footer** with developer credit, quick links, and social media handles.
+- ## 📄 About
+
+This portfolio site is designed to help web developers:
+- Showcase completed projects
+- Highlight technical and networking skills
+- Provide easy contact options
 ![image alt](https://github.com/Amrenderkumar/website_dashbord_project/blob/6fac0697a2648a462c489d30108e7f644536d169/screenshort2.png)
