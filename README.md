@@ -10,6 +10,7 @@ This is a personal portfolio website for a **Web Developer** showcasing projects
 - **Projects, Skills, and Network Sections** to highlight strengths and capabilities.
 - **About Me Section** with image and introduction.
 - **Footer** with developer credit, quick links, and social media handles.
+ 
 - ## 📄 About
 
 This portfolio site is designed to help web developers:
