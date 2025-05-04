@@ -22,4 +22,9 @@ This portfolio site is designed to help web developers:
 
 The image above shows a screenshot of the homepage layout, featuring a modern and responsive design.
 
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- (Add JavaScript or frameworks used if any)
 ![image alt](https://github.com/Amrenderkumar/website_dashbord_project/blob/6fac0697a2648a462c489d30108e7f644536d169/screenshort2.png)
